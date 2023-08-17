@@ -3,6 +3,7 @@
 This MERN stack project uses crowd-sourcing functionality to provide users with a platform to exchange information regarding the TSRTC buses.
 
 Vite - was used for running the frontend
+
 nodemon - was used for running the backend
 
 Dependencies required for the project are:
